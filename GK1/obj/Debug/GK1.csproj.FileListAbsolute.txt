@@ -1,0 +1,10 @@
+C:\Users\krzys\Desktop\GK1\GK1\bin\Debug\GK1.exe.config
+C:\Users\krzys\Desktop\GK1\GK1\bin\Debug\GK1.exe
+C:\Users\krzys\Desktop\GK1\GK1\bin\Debug\GK1.pdb
+C:\Users\krzys\Desktop\GK1\GK1\obj\Debug\GK1.csprojAssemblyReference.cache
+C:\Users\krzys\Desktop\GK1\GK1\obj\Debug\GK1.Properties.Resources.resources
+C:\Users\krzys\Desktop\GK1\GK1\obj\Debug\GK1.csproj.GenerateResource.cache
+C:\Users\krzys\Desktop\GK1\GK1\obj\Debug\GK1.csproj.CoreCompileInputs.cache
+C:\Users\krzys\Desktop\GK1\GK1\obj\Debug\GK1.exe
+C:\Users\krzys\Desktop\GK1\GK1\obj\Debug\GK1.pdb
+C:\Users\krzys\Desktop\GK1\GK1\obj\Debug\GK1.GK1.resources
